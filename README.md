@@ -30,7 +30,6 @@ The application uses the config.ini file to store configuration parameters.
 - gbak_path – Path to the gbak.exe executable used for database backup.
 - database_folder – Directory where the databases are located.
 - backup_folder – Location to store backup files.
-- username and password – Credentials for accessing the database.
 - max_backup_files – Maximum number of backup files to keep before older ones are deleted.
 - database_list – List of databases to be backed up.
 - bot_token – API telegram @BotFather.
